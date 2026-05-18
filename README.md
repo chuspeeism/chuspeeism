@@ -1,6 +1,8 @@
-# 大师的AI小灶
+# Dashi AI Lab
 
-自媒体博主｜用大白话拆解 AI 知识，把工具能力变成选题、脚本、PPT、视频和工作流。
+这里是中文内容账号「大师的AI小灶」的 GitHub 延伸。
+
+I build AI-powered content workflows for research, scripts, decks, video, and creator operations.
 
 我关注的不是“AI 很厉害”，而是它怎么落到一条真实内容、一页 PPT、一次复盘、一个判断标准和一套可重复执行的创作流程里。
 
