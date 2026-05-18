@@ -9,24 +9,20 @@
 - Website：小红书主页（已更新）
 - Profile README：使用当前仓库根目录 `README.md`（已发布）
 
-## 头像建议
+## 头像
 
-GitHub 头像建议和抖音 / 小红书保持一致，优先使用已经有辨识度的账号头像。
+已更新为基于狐狸角色造型生成的 `Dashi AI Lab` GitHub 头像。
 
-GitHub 网页端路径：
+最终文件：
 
-1. 打开 GitHub 右上角头像
-2. 进入 `Settings`
-3. 选择 `Public profile`
-4. 点击头像区域的 `Edit`
-5. 上传和抖音 / 小红书一致的头像图
+- `assets/avatar/dashi-ai-lab-fox-avatar-github.jpg`
 
-GitHub 对头像文件的常见要求：
+设计方向：
 
-- PNG、JPG 或 GIF
-- 小于 1MB
-- 小于 3000 x 3000 px
-- 正方形头像显示效果最好，推荐约 500 x 500 px
+- 保留「大师的AI小灶」狐狸角色的记忆点
+- 转成 GitHub 场域更合适的头像，而不是角色设定图
+- 单个头肩像，深色背景，灰色衣服，轻微冷色边缘光
+- 小尺寸下先识别出狐狸角色，再感受到 AI Lab 气质
 
 ## 平台来源
 
