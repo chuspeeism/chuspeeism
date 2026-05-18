@@ -4,10 +4,10 @@
 
 ## 已建议的公开身份
 
-- Profile name：大师的AI小灶
-- Bio：自媒体博主｜用大白话拆解 AI 知识，把工具能力变成选题、脚本、PPT、视频和工作流。
-- Website：小红书主页
-- Profile README：使用当前仓库根目录 `README.md`
+- Profile name：大师的AI小灶（已更新）
+- Bio：自媒体博主｜用大白话拆解 AI 知识，把工具能力变成选题、脚本、PPT、视频和工作流。（已更新）
+- Website：小红书主页（已更新）
+- Profile README：使用当前仓库根目录 `README.md`（已发布）
 
 ## 头像建议
 
