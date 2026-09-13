@@ -1,41 +1,43 @@
-# Dashi AI Lab
+# 大师
 
-这里是中文内容账号「大师的AI小灶」的 GitHub 延伸。
+我做「大师的AI小灶」，一个讲 AI 怎么用的内容账号。
+讲着讲着，顺手把用到的工具开源了：一个 PPT skill 8k+ star，一个任务看板 3k+ star。
+我不是程序员。产品是 AI 写的，我负责想清楚要做什么、判断做得对不对。
 
-I build AI-powered content workflows for research, scripts, decks, video, and creator operations.
+## 产品
 
-我关注的不是“AI 很厉害”，而是它怎么落到一条真实内容、一页 PPT、一次复盘、一个判断标准和一套可重复执行的创作流程里。
+[![Dashi PPT Skill](assets/banners/dashi-ppt-skill.png)](https://github.com/chuspeeism/dashi-ppt-skill)
 
-## 我在做什么
+### Dashi PPT Skill
+把文档丢给 AI Agent，出一份每页自带编辑控制台的 PPT。不满意的地方直接在浏览器里改，改完一键导出真实可编辑的 PPTX。
+12 套视觉主题、1020 个版式页面、8576 个可调控件。支持 Claude Code、Codex、豆包等 8 个平台。
 
-- 用案例练习讲 AI：从提示词、AI 生图、AI 视频，到 PPT、设计和内容生产
-- 复盘真实创作过程：把失败尝试、判断标准和可复用方法讲清楚
-- 沉淀自媒体团队工作流：选题、资料整理、脚本、视觉、发布和复盘
-- 把好工具变成好流程：不止介绍功能，更关心它能不能稳定服务内容产出
+[![stars](https://img.shields.io/github/stars/chuspeeism/dashi-ppt-skill?style=flat&label=dashi-ppt-skill)](https://github.com/chuspeeism/dashi-ppt-skill)
 
-## 内容方向
+[![Codex Taskboard](assets/banners/dashi-taskboard.png)](https://github.com/chuspeeism/dashi-taskboard)
 
-- AI 内容生产与自媒体工作流
-- AI 做 PPT、设计、图像和视频
-- Prompt、Agent、自动化与效率工具
-- 面向普通人的 AI 教程、案例和练习
+### Codex Taskboard
+本地优先的任务看板。人在看板上建单，Codex 自己捞单执行，改完挪到待验收。
+浏览器里能跑，也能嵌进 Codex。有 macOS 和 Windows 安装包，同一套接口驱动网页界面和 taskctl 命令行，还支持 DeepSeek Harness。
+
+[![stars](https://img.shields.io/github/stars/chuspeeism/dashi-taskboard?style=flat&label=dashi-taskboard)](https://github.com/chuspeeism/dashi-taskboard)
+
+[![dashi-motion](assets/banners/dashi-motion.png)](https://github.com/chuspeeism/dashi-motion)
+
+### dashi-motion
+让 AI 在 After Effects、Rive、Cavalry 里做能继续编辑的动效。
+整理了三款软件的执行步骤、控制方式、失败现象和处理结果，附 3 个验证过的脚本。交付的是可编辑的 .aep、.cv 和 Rive 状态机，不是一段渲染好的视频。
+
+[![stars](https://img.shields.io/github/stars/chuspeeism/dashi-motion?style=flat&label=dashi-motion)](https://github.com/chuspeeism/dashi-motion)
+
+[![DoubaoPlot](assets/banners/doubaoplot.png)](https://github.com/chuspeeism/doubaoplot)
+
+### DoubaoPlot
+在豆包工作里用 Origin 画可编辑的科研图，也支持 Codex 和 Claude Code。
+基于 hang-jin/editaplot 二次创作，加了 45 种图可点选的选择器。Windows 10/11，Origin 2021 到 2026b。
+
+[![stars](https://img.shields.io/github/stars/chuspeeism/doubaoplot?style=flat&label=doubaoplot)](https://github.com/chuspeeism/doubaoplot)
 
 ## 找到我
 
-- 抖音：[大师的AI小灶](https://www.douyin.com/user/MS4wLjABAAAAohe8JB4RvITJitJ69b7cV4NTaYTMYrVI43C-3SUnPPc?from_tab_name=main&vid=7634170035669437738)
-- 小红书：[大师的AI小灶](https://www.xiaohongshu.com/user/profile/62e0c2bb000000001501408c?xsec_token=ABgaAehBtmmMnhSa9EdXYSE0ntsifsd7aKWMrw_OKyPqo%3D&xsec_source=pc_search)
-
-## GitHub 上会放什么
-
-这里会慢慢沉淀一些和内容生产有关的实验、工具链和方法稿，比如：
-
-- 可复用的 AI 工作流
-- PPT / 图像 / 视频相关工具实验
-- 自媒体内容生产 SOP
-- 从真实案例中整理出来的提示词、脚本和复盘模板
-
-如果你也是在用 AI 做内容、做课程、做账号，欢迎来看看我正在折腾什么。
-
----
-
-Hi, I am a Chinese AI content creator. I make practical tutorials and workflows about AI-powered content creation, PPT, visual storytelling, short videos, prompts, agents, and creator productivity.
+[抖音](https://www.douyin.com/user/MS4wLjABAAAAohe8JB4RvITJitJ69b7cV4NTaYTMYrVI43C-3SUnPPc) · [小红书](https://www.xiaohongshu.com/user/profile/62e0c2bb000000001501408c) · [B站](https://space.bilibili.com/3537118131391269) · [X](https://x.com/Chuspeeism) · [YouTube](https://www.youtube.com/@dashiAI) · 视频号「大师的AI小灶」
